@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "local")(type "KiCad")(uri "${KIPRJMOD}/symbols/IN-P55QDTRGBW.kicad_sym")(options "")(descr ""))
+  (lib (name "local2")(type "KiCad")(uri "${KIPRJMOD}/symbols/TLC59283DBQR.kicad_sym")(options "")(descr ""))
+)
